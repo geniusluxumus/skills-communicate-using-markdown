@@ -34,3 +34,8 @@ print(messages)  # this will be null if no [:] is used
 print(sent_messages)
 
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
